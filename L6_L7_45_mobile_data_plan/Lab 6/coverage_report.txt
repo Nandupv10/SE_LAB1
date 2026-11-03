@@ -1,0 +1,17 @@
+﻿============================= test session starts =============================
+platform win32 -- Python 3.12.0, pytest-9.2.0, pluggy-1.7.0
+rootdir: C:\Users\pvnan\OneDrive\Desktop\SE_LAB1\L6_L7_45_mobile_data_plan\Lab 6
+plugins: platformdirs-4.12.3, cov-7.1.0
+collected 16 items
+
+test_mobile_data_plan.py ................                                [100%]
+
+=============================== tests coverage ================================
+_______________ coverage: platform win32, python 3.12.0-final-0 _______________
+
+Name                  Stmts   Miss Branch BrPart  Cover   Missing
+-----------------------------------------------------------------
+mobile_data_plan.py      37      0     26      0   100%
+-----------------------------------------------------------------
+TOTAL                    37      0     26      0   100%
+============================= 16 passed in 0.24s ==============================
